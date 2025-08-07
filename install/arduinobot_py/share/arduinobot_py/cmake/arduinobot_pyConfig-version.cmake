@@ -1,0 +1,1 @@
+/home/darkhorse/arduinobot_ws/src/build/arduinobot_py/ament_cmake_core/arduinobot_pyConfig-version.cmake

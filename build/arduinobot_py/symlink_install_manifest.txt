@@ -1,0 +1,15 @@
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/ament_index/resource_index/package_run_dependencies/arduinobot_py
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/ament_index/resource_index/parent_prefix_path/arduinobot_py
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/arduinobot_py/environment/ament_prefix_path.sh
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/arduinobot_py/environment/ament_prefix_path.dsv
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/arduinobot_py/environment/path.sh
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/arduinobot_py/environment/path.dsv
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/arduinobot_py/local_setup.bash
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/arduinobot_py/local_setup.sh
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/arduinobot_py/local_setup.zsh
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/arduinobot_py/local_setup.dsv
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/arduinobot_py/package.dsv
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/ament_index/resource_index/packages/arduinobot_py
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/arduinobot_py/cmake/arduinobot_pyConfig.cmake
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/arduinobot_py/cmake/arduinobot_pyConfig-version.cmake
+/home/darkhorse/arduinobot_ws/src/install/arduinobot_py/share/arduinobot_py/package.xml

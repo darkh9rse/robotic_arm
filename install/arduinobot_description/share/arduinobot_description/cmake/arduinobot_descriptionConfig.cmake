@@ -1,0 +1,1 @@
+/home/darkhorse/arduinobot_ws/src/build/arduinobot_description/ament_cmake_core/arduinobot_descriptionConfig.cmake

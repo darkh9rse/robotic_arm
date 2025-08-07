@@ -1,0 +1,9 @@
+/home/darkhorse/arduinobot_ws/src/build/arduinobot_py/CMakeFiles/uninstall.dir
+/home/darkhorse/arduinobot_ws/src/build/arduinobot_py/CMakeFiles/arduinobot_py_uninstall.dir
+/home/darkhorse/arduinobot_ws/src/build/arduinobot_py/CMakeFiles/test.dir
+/home/darkhorse/arduinobot_ws/src/build/arduinobot_py/CMakeFiles/edit_cache.dir
+/home/darkhorse/arduinobot_ws/src/build/arduinobot_py/CMakeFiles/rebuild_cache.dir
+/home/darkhorse/arduinobot_ws/src/build/arduinobot_py/CMakeFiles/list_install_components.dir
+/home/darkhorse/arduinobot_ws/src/build/arduinobot_py/CMakeFiles/install.dir
+/home/darkhorse/arduinobot_ws/src/build/arduinobot_py/CMakeFiles/install/local.dir
+/home/darkhorse/arduinobot_ws/src/build/arduinobot_py/CMakeFiles/install/strip.dir
