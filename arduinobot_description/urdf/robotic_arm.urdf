@@ -48,7 +48,7 @@
     name="link_1">
     <inertial>
       <origin
-        xyz="-0.042602 0.076543 0.0034922"
+        xyz="-0.042602 0.086543 0.0034922"
         rpy="0 0 0" />
       <mass
         value="1.5863" />
@@ -88,18 +88,18 @@
     name="joint_1"
     type="revolute">
     <origin
-      xyz="0 0 0.06"
+      xyz="0 0 0.05"
       rpy="1.5708 0 0.45791" />
     <parent
       link="base_link" />
     <child
       link="link_1" />
     <axis
-      xyz="-0.00078022 0.11635 0.99321" />
+      xyz="0 1 0" />
     <limit
-      lower="-3.142"
+      lower="0"
       upper="3.142"
-      effort="300"
+      effort="200"
       velocity="3" />
   </joint>
   <link
@@ -146,7 +146,7 @@
     name="joint_2"
     type="revolute">
     <origin
-      xyz="-0.1461 0.17286 0"
+      xyz="-0.1461 0.18286 0"
       rpy="-1.5708 0 -1.8957" />
     <parent
       link="link_1" />
@@ -271,7 +271,7 @@
     <axis
       xyz="1 0 0" />
     <limit
-      lower="-3.142"
+      lower="0"
       upper="3.142"
       effort="200"
       velocity="3" />
@@ -286,10 +286,10 @@
         value="0.38604" />
       <inertia
         ixx="0.00044952"
-        ixy="1.5247E-19"
-        ixz="2.7105E-20"
+        ixy="1.5924E-19"
+        ixz="1.3553E-20"
         iyy="0.00031694"
-        iyz="8.1315E-20"
+        iyz="7.4539E-20"
         izz="0.00044603" />
     </inertial>
     <visual>
@@ -329,8 +329,8 @@
     <axis
       xyz="0 0 -1" />
     <limit
-      lower="-1.57"
-      upper="1.57"
+      lower="0"
+      upper="3.142"
       effort="200"
       velocity="3" />
   </joint>
@@ -344,10 +344,10 @@
         value="0.18088" />
       <inertia
         ixx="0.00011376"
-        ixy="-1.6305E-20"
-        ixz="1.1858E-20"
+        ixy="-1.1435E-20"
+        ixz="-1.6941E-21"
         iyy="0.00011418"
-        iyz="-1.8635E-20"
+        iyz="-7.6233E-21"
         izz="0.00010947" />
     </inertial>
     <visual>
@@ -387,7 +387,7 @@
     <axis
       xyz="0 -1 0" />
     <limit
-      lower="-3.142"
+      lower="0"
       upper="3.142"
       effort="200"
       velocity="3" />
@@ -436,14 +436,14 @@
     name="joint_7"
     type="revolute">
     <origin
-      xyz="0 -0.06071 0.03614"
-      rpy="0 1.1954 -1.5708" />
+      xyz="0 -0.06071 -0.03614"
+      rpy="-3.1416 -1.4875 -1.5708" />
     <parent
       link="link_6" />
     <child
       link="gripper_1" />
     <axis
-      xyz="0 1 0" />
+      xyz="0 -1 0" />
     <limit
       lower="0"
       upper="1.57"
@@ -454,7 +454,7 @@
     name="gripper_2">
     <inertial>
       <origin
-        xyz="-0.056383 6.5254E-05 0.057488"
+        xyz="0.015647 6.5254E-05 0.051476"
         rpy="0 0 0" />
       <mass
         value="0.05463" />
@@ -495,13 +495,13 @@
     type="revolute">
     <origin
       xyz="0 -0.06071 0.03614"
-      rpy="-3.1416 -1.4875 -1.5708" />
+      rpy="0 1.1954 -1.5708" />
     <parent
       link="link_6" />
     <child
       link="gripper_2" />
     <axis
-      xyz="0 -1 0" />
+      xyz="0 1 0" />
     <limit
       lower="0"
       upper="1.57"
